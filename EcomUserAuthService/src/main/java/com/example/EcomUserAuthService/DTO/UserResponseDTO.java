@@ -35,4 +35,9 @@ public class UserResponseDTO {
         }
         return userResponseDTO;
     }
+
+    //demo example
+    public static User from(UserResponseDTO userResponseDTO) {
+        return null;
+    }
 }
